@@ -1,11 +1,11 @@
 # coffee-masters-ios
 
 ### Simple Coffee Ordering App
+<img width="100" alt="Screen Shot 2022-09-02 at 7 53 13 AM" src="https://user-images.githubusercontent.com/13388651/188178546-5db36004-4883-4789-b3a7-44eb8d0374f7.png">
+<img width="100" alt="Screen Shot 2022-09-02 at 7 53 32 AM" src="https://user-images.githubusercontent.com/13388651/188178558-a21c06b4-1620-42b5-9632-220d14ae230f.png">
+<img width="100" alt="Screen Shot 2022-09-02 at 7 54 08 AM" src="https://user-images.githubusercontent.com/13388651/188178569-6f43feb2-451c-4890-af49-092a6d51e281.png">
+<img width="100" alt="Screen Shot 2022-09-02 at 7 54 39 AM" src="https://user-images.githubusercontent.com/13388651/188178579-808a694a-9010-4593-963f-261e8dbfdf3c.png">
 
-<img width="100" alt="Screen Shot 2022-09-02 at 7 53 13 AM" src="https://user-images.githubusercontent.com/13388651/188178088-66cba6ba-ffef-47b3-b432-27a42f0e0c6f.png">
-<img width="100" alt="Screen Shot 2022-09-02 at 7 53 32 AM" src="https://user-images.githubusercontent.com/13388651/188177358-36f8f0e1-d468-4719-b0d7-9d3!
-<img width="100" alt="Screen Shot 2022-09-02 at 7 54 08 AM" src="https://user-images.githubusercontent.com/13388651/188178343-5e850721-93b5-4fdb-8813-e81b7c99f58d.png">
-<img width="100" alt="Screen Shot 2022-09-02 at 7 54 39 AM" src="https://user-images.githubusercontent.com/13388651/188178372-199fc40f-56a3-42ae-b1e6-4caa2925ac3b.png">
 
 ### Features
 - List of Types of Coffees, Teas, & food you can order
